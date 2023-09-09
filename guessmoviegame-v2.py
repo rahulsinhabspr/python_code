@@ -81,11 +81,6 @@ def guessTheMovie():
         print('maximum number of choice', l)
         for i in range(l):
             print('Players if you guess the movie in 1 attempt you will get maximum point, 100 ')
-            
-            
-            
-            
-            
             print('Player 1, it is your turn to tell us your choice')
         
     print('Thank you for your time')
